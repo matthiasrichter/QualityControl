@@ -1,0 +1,41 @@
+<map id="Framework/include/QualityControl/Activity.h" name="Framework/include/QualityControl/Activity.h">
+<area shape="rect" id="node2" href="$TaskInterface_8h.html" title="Framework/include/Quality\lControl/TaskInterface.h" alt="" coords="3499,95,3677,136"/>
+<area shape="rect" id="node3" href="$QcInfoLogger_8h.html" title="Framework/include/Quality\lControl/QcInfoLogger.h" alt="" coords="2449,184,2626,225"/>
+<area shape="rect" id="node26" href="$TaskRunner_8h.html" title="Framework/include/Quality\lControl/TaskRunner.h" alt="" coords="362,184,539,225"/>
+<area shape="rect" id="node30" href="$TaskInterface_8cxx.html" title="Framework/src/TaskInterface.cxx" alt="" coords="4199,191,4417,218"/>
+<area shape="rect" id="node31" href="$testTaskInterface_8cxx.html" title="Framework/test/testTaskInterface.cxx" alt="" coords="4442,191,4686,218"/>
+<area shape="rect" id="node32" href="$DaqTask_8h.html" title="Modules/Daq/include\l/Daq/DaqTask.h" alt="" coords="3516,184,3660,225"/>
+<area shape="rect" id="node34" href="$DigitsQcTask_8h.html" title="Modules/EMCAL/include\l/EMCAL/DigitsQcTask.h" alt="" coords="2774,184,2941,225"/>
+<area shape="rect" id="node35" href="$BenchmarkTask_8h.html" title="Modules/Example/include\l/Example/BenchmarkTask.h" alt="" coords="3091,184,3277,225"/>
+<area shape="rect" id="node36" href="$ExampleCondition_8h.html" title="Modules/Example/include\l/Example/ExampleCondition.h" alt="" coords="4710,184,4909,225"/>
+<area shape="rect" id="node38" href="$ExampleTask_8h.html" title="Modules/Example/include\l/Example/ExampleTask.h" alt="" coords="3806,184,3978,225"/>
+<area shape="rect" id="node41" href="$SkeletonTask_8h.html" title="Modules/Skeleton/include\l/Skeleton/SkeletonTask.h" alt="" coords="4002,184,4174,225"/>
+<area shape="rect" id="node43" href="$TOFTask_8h.html" title="Modules/TOF/include\l/TOF/TOFTask.h" alt="" coords="3316,184,3463,225"/>
+<area shape="rect" id="node4" href="$Checker_8h.html" title="Framework/include/Quality\lControl/Checker.h" alt="" coords="942,273,1119,315"/>
+<area shape="rect" id="node12" href="$DatabaseFactory_8cxx.html" title="Framework/src/DatabaseFactory.cxx" alt="" coords="1143,281,1382,307"/>
+<area shape="rect" id="node13" href="$InformationService_8cxx.html" title="Framework/src/Information\lService.cxx" alt="" coords="1407,273,1585,315"/>
+<area shape="rect" id="node14" href="$MySqlDatabase_8cxx.html" title="Framework/src/MySqlDatabase.cxx" alt="" coords="1610,281,1841,307"/>
+<area shape="rect" id="node15" href="$ObjectsManager_8cxx.html" title="Framework/src/ObjectsManager.cxx" alt="" coords="1865,281,2098,307"/>
+<area shape="rect" id="node16" href="$RepositoryBenchmark_8cxx.html" title="Framework/src/Repository\lBenchmark.cxx" alt="" coords="2123,273,2299,315"/>
+<area shape="rect" id="node17" href="$TaskFactory_8cxx.html" title="Framework/src/TaskFactory.cxx" alt="" coords="2323,281,2533,307"/>
+<area shape="rect" id="node18" href="$TaskRunner_8cxx.html" title="Framework/src/TaskRunner.cxx" alt="" coords="709,281,918,307"/>
+<area shape="rect" id="node19" href="$testQcInfoLogger_8cxx.html" title="Framework/test/testQcInfo\lLogger.cxx" alt="" coords="2557,273,2736,315"/>
+<area shape="rect" id="node20" href="$DaqTask_8cxx.html" title="Modules/Daq/src/DaqTask.cxx" alt="" coords="3369,281,3572,307"/>
+<area shape="rect" id="node21" href="$DigitsQcTask_8cxx.html" title="Modules/EMCAL/src/Digits\lQcTask.cxx" alt="" coords="2760,273,2941,315"/>
+<area shape="rect" id="node22" href="$BenchmarkTask_8cxx.html" title="Modules/Example/src\l/BenchmarkTask.cxx" alt="" coords="2966,273,3114,315"/>
+<area shape="rect" id="node23" href="$ExampleTask_8cxx.html" title="Modules/Example/src\l/ExampleTask.cxx" alt="" coords="3838,273,3986,315"/>
+<area shape="rect" id="node24" href="$SkeletonTask_8cxx.html" title="Modules/Skeleton/src\l/SkeletonTask.cxx" alt="" coords="4187,273,4335,315"/>
+<area shape="rect" id="node25" href="$TOFTask_8cxx.html" title="Modules/TOF/src/TOFTask.cxx" alt="" coords="3138,281,3345,307"/>
+<area shape="rect" id="node5" href="$Checker_8cxx.html" title="Framework/src/Checker.cxx" alt="" coords="29,363,216,389"/>
+<area shape="rect" id="node6" href="$CheckerFactory_8cxx.html" title="Framework/src/CheckerFactory.cxx" alt="" coords="1034,363,1265,389"/>
+<area shape="rect" id="node7" href="$runBasic_8cxx.html" title="This is an executable showing QC Task&#39;s usage in Data Processing Layer. " alt="" coords="1289,363,1479,389"/>
+<area shape="rect" id="node8" href="$testChecker_8cxx.html" title="Framework/test/testChecker.cxx" alt="" coords="1503,363,1716,389"/>
+<area shape="rect" id="node9" href="$testWorkflow_8cxx.html" title="Framework/test/testWorkflow.cxx" alt="" coords="256,363,475,389"/>
+<area shape="rect" id="node11" href="$runTOF_8cxx.html" title="This is an executable showing QC Task&#39;s usage in Data Processing Layer. " alt="" coords="814,363,1010,389"/>
+<area shape="rect" id="node28" href="$TaskRunnerFactory_8cxx.html" title="Framework/src/TaskRunner\lFactory.cxx" alt="" coords="241,273,425,315"/>
+<area shape="rect" id="node29" href="$testTaskRunner_8cxx.html" title="Framework/test/testTaskRunner.cxx" alt="" coords="449,281,684,307"/>
+<area shape="rect" id="node33" href="$testQcDaq_8cxx.html" title="Modules/Daq/test/testQcDaq.cxx" alt="" coords="3597,281,3814,307"/>
+<area shape="rect" id="node37" href="$ExampleCondition_8cxx.html" title="Modules/Example/src\l/ExampleCondition.cxx" alt="" coords="4731,273,4888,315"/>
+<area shape="rect" id="node40" href="$testQcExample_8cxx.html" title="Modules/Example/test\l/testQcExample.cxx" alt="" coords="4360,273,4512,315"/>
+<area shape="rect" id="node42" href="$testQcSkeleton_8cxx.html" title="Modules/Skeleton/test\l/testQcSkeleton.cxx" alt="" coords="4536,273,4688,315"/>
+</map>

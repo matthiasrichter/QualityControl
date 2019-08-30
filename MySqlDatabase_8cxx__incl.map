@@ -1,0 +1,11 @@
+<map id="Framework/src/MySqlDatabase.cxx" name="Framework/src/MySqlDatabase.cxx">
+<area shape="rect" id="node10" href="$MySqlDatabase_8h.html" title="QualityControl/MySqlDatabase.h" alt="" coords="1005,155,1219,181"/>
+<area shape="rect" id="node22" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="1455,80,1654,107"/>
+<area shape="rect" id="node12" href="$DatabaseInterface_8h.html" title="QualityControl/DatabaseInterface.h" alt="" coords="1209,229,1436,256"/>
+<area shape="rect" id="node17" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="1282,304,1483,331"/>
+<area shape="rect" id="node21" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="1370,379,1531,405"/>
+<area shape="rect" id="node24" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="1897,155,2097,181"/>
+<area shape="rect" id="node27" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="2129,229,2293,256"/>
+<area shape="rect" id="node28" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="1461,229,1675,256"/>
+<area shape="rect" id="node29" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="1804,304,1991,331"/>
+</map>
